@@ -1,5 +1,5 @@
 # CrudFuncionario
-### Aplicação java com CRUD básico de funcionário e cálculo de ganho anual a partir do salário informado.
+### Aplicação java com CRUD básico de funcionário utilizando ArrayList para a execução de alguns métodos, bem como, JFrame e tables para as telas. Na aplicação é possível realizar além do CRUD para o funcionário, ela também realiza o cálculo do ganho anual a partir do salário informado e exibe também na tabela.
 
 ## Model de Funcionário:
 
